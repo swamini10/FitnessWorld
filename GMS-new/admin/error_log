@@ -1,0 +1,66 @@
+[16-Apr-2023 06:09:06 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/partials/header.php on line 6
+[16-Apr-2023 06:09:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/devamiti/public_html/test/admin/partials/connection.php on line 3
+[16-Apr-2023 06:09:06 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/index.php on line 11
+[16-Apr-2023 06:09:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/devamiti/public_html/test/admin/index.php:56
+Stack trace:
+#0 /home3/devamiti/public_html/test/admin/index.php(56): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/admin/index.php on line 56
+[16-Apr-2023 06:31:10 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/partials/header.php on line 6
+[16-Apr-2023 06:31:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function myslqi_connect() in /home3/devamiti/public_html/test/admin/partials/connection.php:3
+Stack trace:
+#0 /home3/devamiti/public_html/test/admin/index.php(2): include()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/admin/partials/connection.php on line 3
+[16-Apr-2023 06:42:24 UTC] PHP Parse error:  Unclosed '{' on line 32 in /home3/devamiti/public_html/test/admin/services.php on line 62
+[16-Apr-2023 06:54:29 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/partials/header.php on line 6
+[16-Apr-2023 06:56:02 UTC] PHP Warning:  Undefined array key "service_name" in /home3/devamiti/public_html/test/admin/services.php on line 33
+[16-Apr-2023 06:56:02 UTC] PHP Warning:  Undefined array key "uploadfile" in /home3/devamiti/public_html/test/admin/services.php on line 35
+[16-Apr-2023 06:56:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/devamiti/public_html/test/admin/services.php on line 35
+[16-Apr-2023 06:56:02 UTC] PHP Warning:  Undefined array key "uploadfile" in /home3/devamiti/public_html/test/admin/services.php on line 36
+[16-Apr-2023 06:56:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/devamiti/public_html/test/admin/services.php on line 36
+[16-Apr-2023 06:56:02 UTC] PHP Warning:  Undefined variable $conn in /home3/devamiti/public_html/test/admin/services.php on line 43
+[16-Apr-2023 06:56:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/devamiti/public_html/test/admin/services.php:43
+Stack trace:
+#0 /home3/devamiti/public_html/test/admin/services.php(43): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/admin/services.php on line 43
+[16-Apr-2023 06:57:09 UTC] PHP Warning:  Undefined array key "service_name" in /home3/devamiti/public_html/test/admin/services.php on line 33
+[16-Apr-2023 06:57:09 UTC] PHP Warning:  Undefined variable $conn in /home3/devamiti/public_html/test/admin/services.php on line 43
+[16-Apr-2023 06:57:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/devamiti/public_html/test/admin/services.php:43
+Stack trace:
+#0 /home3/devamiti/public_html/test/admin/services.php(43): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/admin/services.php on line 43
+[16-Apr-2023 06:58:01 UTC] PHP Warning:  Undefined variable $conn in /home3/devamiti/public_html/test/admin/services.php on line 43
+[16-Apr-2023 06:58:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/devamiti/public_html/test/admin/services.php:43
+Stack trace:
+#0 /home3/devamiti/public_html/test/admin/services.php(43): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/admin/services.php on line 43
+[16-Apr-2023 06:58:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''service_name' , 'service_price' , 'service_image' , 'service_description') V...' at line 1 in /home3/devamiti/public_html/test/admin/services.php:43
+Stack trace:
+#0 /home3/devamiti/public_html/test/admin/services.php(43): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/admin/services.php on line 43
+[16-Apr-2023 06:59:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''service_name' , 'service_price' , 'service_image' , 'service_description') V...' at line 1 in /home3/devamiti/public_html/test/admin/services.php:43
+Stack trace:
+#0 /home3/devamiti/public_html/test/admin/services.php(43): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/admin/services.php on line 43
+[16-Apr-2023 10:54:46 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/partials/header.php on line 7
+[16-Apr-2023 10:54:46 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/index.php on line 11
+[16-Apr-2023 11:23:20 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/partials/header.php on line 7
+[16-Apr-2023 11:23:20 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/index.php on line 11
+[16-Apr-2023 11:45:49 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/partials/header.php on line 7
+[16-Apr-2023 11:45:49 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/index.php on line 11
+[16-Apr-2023 12:35:54 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/partials/header.php on line 7
+[16-Apr-2023 12:35:54 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/index.php on line 11
+[16-Apr-2023 12:42:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'll get the best equipment            
+        ')' at line 2 in /home3/devamiti/public_html/test/admin/services.php:44
+Stack trace:
+#0 /home3/devamiti/public_html/test/admin/services.php(44): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/admin/services.php on line 44
+[19-Apr-2023 10:39:35 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/partials/header.php on line 7
+[19-Apr-2023 10:39:35 UTC] PHP Warning:  Undefined array key "user_login" in /home3/devamiti/public_html/test/admin/index.php on line 11
