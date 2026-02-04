@@ -1,0 +1,137 @@
+[16-Apr-2023 06:29:01 UTC] PHP Warning:  Undefined variable $conn in /home3/devamiti/public_html/test/partials/header.php on line 15
+[16-Apr-2023 06:29:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/devamiti/public_html/test/partials/header.php:15
+Stack trace:
+#0 /home3/devamiti/public_html/test/partials/header.php(15): mysqli_query()
+#1 /home3/devamiti/public_html/test/index.php(3): include('/home3/devamiti...')
+#2 {main}
+  thrown in /home3/devamiti/public_html/test/partials/header.php on line 15
+[16-Apr-2023 06:29:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function myslqi_connect() in /home3/devamiti/public_html/test/partials/connection.php:3
+Stack trace:
+#0 /home3/devamiti/public_html/test/partials/header.php(5): include()
+#1 /home3/devamiti/public_html/test/index.php(3): include('/home3/devamiti...')
+#2 {main}
+  thrown in /home3/devamiti/public_html/test/partials/connection.php on line 3
+[16-Apr-2023 06:29:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function myslqi_connect() in /home3/devamiti/public_html/test/partials/connection.php:3
+Stack trace:
+#0 /home3/devamiti/public_html/test/partials/header.php(5): include()
+#1 /home3/devamiti/public_html/test/index.php(3): include('/home3/devamiti...')
+#2 {main}
+  thrown in /home3/devamiti/public_html/test/partials/connection.php on line 3
+[16-Apr-2023 06:29:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function myslqi_connect() in /home3/devamiti/public_html/test/partials/connection.php:3
+Stack trace:
+#0 /home3/devamiti/public_html/test/partials/header.php(5): include()
+#1 /home3/devamiti/public_html/test/index.php(3): include('/home3/devamiti...')
+#2 {main}
+  thrown in /home3/devamiti/public_html/test/partials/connection.php on line 3
+[16-Apr-2023 06:29:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function myslqi_connect() in /home3/devamiti/public_html/test/partials/connection.php:3
+Stack trace:
+#0 /home3/devamiti/public_html/test/partials/header.php(5): include()
+#1 /home3/devamiti/public_html/test/index.php(3): include('/home3/devamiti...')
+#2 {main}
+  thrown in /home3/devamiti/public_html/test/partials/connection.php on line 3
+[16-Apr-2023 06:29:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function myslqi_connect() in /home3/devamiti/public_html/test/partials/connection.php:3
+Stack trace:
+#0 /home3/devamiti/public_html/test/partials/header.php(5): include()
+#1 /home3/devamiti/public_html/test/index.php(3): include('/home3/devamiti...')
+#2 {main}
+  thrown in /home3/devamiti/public_html/test/partials/connection.php on line 3
+[16-Apr-2023 08:59:36 UTC] PHP Warning:  Undefined array key "username" in /home3/devamiti/public_html/test/login.php on line 706
+[16-Apr-2023 08:59:36 UTC] PHP Warning:  Undefined array key "password" in /home3/devamiti/public_html/test/login.php on line 707
+[16-Apr-2023 08:59:36 UTC] PHP Warning:  Undefined variable $conn in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 08:59:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/devamiti/public_html/test/login.php:710
+Stack trace:
+#0 /home3/devamiti/public_html/test/login.php(710): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 08:59:57 UTC] PHP Warning:  Undefined array key "username" in /home3/devamiti/public_html/test/login.php on line 706
+[16-Apr-2023 08:59:57 UTC] PHP Warning:  Undefined array key "password" in /home3/devamiti/public_html/test/login.php on line 707
+[16-Apr-2023 08:59:57 UTC] PHP Warning:  Undefined variable $conn in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 08:59:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/devamiti/public_html/test/login.php:710
+Stack trace:
+#0 /home3/devamiti/public_html/test/login.php(710): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:00:51 UTC] PHP Warning:  Undefined array key "username" in /home3/devamiti/public_html/test/login.php on line 706
+[16-Apr-2023 09:00:51 UTC] PHP Warning:  Undefined array key "password" in /home3/devamiti/public_html/test/login.php on line 707
+[16-Apr-2023 09:00:51 UTC] PHP Warning:  Undefined variable $conn in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:00:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/devamiti/public_html/test/login.php:710
+Stack trace:
+#0 /home3/devamiti/public_html/test/login.php(710): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:01:01 UTC] PHP Warning:  Undefined array key "password" in /home3/devamiti/public_html/test/login.php on line 707
+[16-Apr-2023 09:01:01 UTC] PHP Warning:  Undefined variable $conn in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:01:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/devamiti/public_html/test/login.php:710
+Stack trace:
+#0 /home3/devamiti/public_html/test/login.php(710): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:01:22 UTC] PHP Warning:  Undefined array key "password" in /home3/devamiti/public_html/test/login.php on line 707
+[16-Apr-2023 09:01:22 UTC] PHP Warning:  Undefined variable $conn in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:01:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/devamiti/public_html/test/login.php:710
+Stack trace:
+#0 /home3/devamiti/public_html/test/login.php(710): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:01:30 UTC] PHP Warning:  Undefined variable $conn in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:01:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/devamiti/public_html/test/login.php:710
+Stack trace:
+#0 /home3/devamiti/public_html/test/login.php(710): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:01:32 UTC] PHP Warning:  Undefined variable $conn in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:01:32 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/devamiti/public_html/test/login.php:710
+Stack trace:
+#0 /home3/devamiti/public_html/test/login.php(710): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:01:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '=''' at line 1 in /home3/devamiti/public_html/test/login.php:710
+Stack trace:
+#0 /home3/devamiti/public_html/test/login.php(710): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/login.php on line 710
+[16-Apr-2023 09:02:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/devamiti/public_html/test/login.php:1) in /home3/devamiti/public_html/test/login.php on line 712
+[16-Apr-2023 09:04:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/devamiti/public_html/test/login.php on line 705
+[16-Apr-2023 09:06:20 UTC] PHP Warning:  Undefined array key "username" in /home3/devamiti/public_html/test/partials/nav-bar.php on line 26
+[16-Apr-2023 09:06:22 UTC] PHP Warning:  Undefined array key "username" in /home3/devamiti/public_html/test/partials/nav-bar.php on line 26
+[16-Apr-2023 09:07:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/devamiti/public_html/test/login.php on line 705
+[16-Apr-2023 09:07:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/devamiti/public_html/test/login.php on line 705
+[16-Apr-2023 09:07:33 UTC] PHP Warning:  Undefined array key "username" in /home3/devamiti/public_html/test/partials/nav-bar.php on line 26
+[16-Apr-2023 09:07:36 UTC] PHP Warning:  Undefined array key "username" in /home3/devamiti/public_html/test/partials/nav-bar.php on line 26
+[16-Apr-2023 09:07:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/devamiti/public_html/test/login.php on line 705
+[16-Apr-2023 09:08:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/devamiti/public_html/test/login.php on line 705
+[16-Apr-2023 09:08:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/devamiti/public_html/test/login.php on line 706
+[16-Apr-2023 09:08:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/devamiti/public_html/test/login.php on line 705
+[16-Apr-2023 09:10:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/devamiti/public_html/test/login.php on line 705
+[16-Apr-2023 09:10:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'asdasdasd' in 'where clause' in /home3/devamiti/public_html/test/login.php:712
+Stack trace:
+#0 /home3/devamiti/public_html/test/login.php(712): mysqli_query()
+#1 {main}
+  thrown in /home3/devamiti/public_html/test/login.php on line 712
+[16-Apr-2023 09:10:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/devamiti/public_html/test/login.php on line 705
+[16-Apr-2023 11:18:24 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 16
+[16-Apr-2023 11:18:24 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 29
+[16-Apr-2023 11:18:24 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 43
+[16-Apr-2023 11:18:24 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 56
+[16-Apr-2023 11:18:24 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 16
+[16-Apr-2023 11:18:24 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 29
+[16-Apr-2023 11:18:24 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 43
+[16-Apr-2023 11:18:24 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 56
+[16-Apr-2023 11:18:27 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 16
+[16-Apr-2023 11:18:27 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 29
+[16-Apr-2023 11:18:27 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 43
+[16-Apr-2023 11:18:27 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 56
+[16-Apr-2023 11:18:27 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 16
+[16-Apr-2023 11:18:27 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 29
+[16-Apr-2023 11:18:27 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 43
+[16-Apr-2023 11:18:27 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 56
+[16-Apr-2023 11:21:02 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 2
+[16-Apr-2023 11:21:02 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 18
+[16-Apr-2023 11:21:02 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 31
+[16-Apr-2023 11:21:02 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 45
+[16-Apr-2023 11:21:02 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 58
+[16-Apr-2023 11:21:02 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 2
+[16-Apr-2023 11:21:02 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 18
+[16-Apr-2023 11:21:02 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 31
+[16-Apr-2023 11:21:02 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 45
+[16-Apr-2023 11:21:02 UTC] PHP Warning:  Undefined variable $page_name in /home3/devamiti/public_html/test/partials/nav-bar.php on line 58
